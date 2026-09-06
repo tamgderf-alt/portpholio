@@ -21,6 +21,7 @@ header h1 {
     position: relative;
     left: 10px;
     width: 200px;
+    font-size: 30px;
 }
 li {
     padding: 10px;
@@ -28,10 +29,6 @@ li {
 }
 main h1 {
     background-image: linear-gradient(#CD0074,#00CC00);
-}
-ul {
-    text-align: right;
-    list-style-type: none;
 }
 header {
     background-color: #01939A;
